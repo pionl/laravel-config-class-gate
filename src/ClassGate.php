@@ -1,5 +1,5 @@
 <?php
-namespace Pion\Laravel\Support\Loader;
+namespace Pionl\Laravel\Support\Loader;
 
 /**
  * Class ClassGate
