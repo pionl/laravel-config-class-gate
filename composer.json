@@ -1,5 +1,5 @@
 {
-    "name": "pion/laravel-config-class-gate",
+    "name": "pionl/laravel-config-class-gate",
     "description": "Enables loading classes (or objects) via config files in Laravel",
     "license": "MIT",
     "authors": [
@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-	            "Pion\\Laravel\\Support\\Loader\\": "src/"
+	            "Pionl\\Laravel\\Support\\Loader\\": "src/"
 	        }
     }
 }
