@@ -79,7 +79,8 @@ return [
 
 * Own provider with default config file (optional)
 * Gate that will convert method call to config key and will create the correct `ClassGate` instance
+* A command that will create file with docs of supported models (will support typehint on ClassGate static methods)
 
-### Gate proposal
+### ClassGate proposal
 
-* `Gate::user`
+* `ClassGate::user()` that will call ClassGate::gate("user")
