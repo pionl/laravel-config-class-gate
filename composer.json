@@ -1,0 +1,20 @@
+{
+    "name": "pion/laravel-config-class-usage",
+    "description": "Enables using models that can be configurated via config",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Martin Kluska",
+            "email": "martin.kluska@imakers.cz"
+        }
+    ],
+    "require": {
+    	"php": ">=5.4.0",
+	   "laravel/framework": "~5.1"
+    },
+    "autoload": {
+        "psr-4": {
+	            "Pion\\Laravel\\Support\\Loader\\": "src/"
+	        }
+    }
+}
