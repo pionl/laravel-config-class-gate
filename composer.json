@@ -1,6 +1,6 @@
 {
-    "name": "pion/laravel-config-class-usage",
-    "description": "Enables using models that can be configurated via config",
+    "name": "pion/laravel-config-class-gate",
+    "description": "Enables loading classes (or objects) via config files in Laravel",
     "license": "MIT",
     "authors": [
         {
